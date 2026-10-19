@@ -1,0 +1,12 @@
+.root { -fx-font-family: "System"; -fx-font-size: 13px; -fx-background-color: #f6f7fb; }
+.heading { -fx-font-size: 22px; -fx-font-weight: bold; -fx-text-fill: #243a5e; }
+.button { -fx-background-color: #315fe8; -fx-text-fill: white; -fx-padding: 8 12; -fx-background-radius: 6; -fx-cursor: hand; }
+.button:hover { -fx-background-color: #254cbd; }
+.text-field, .password-field, .combo-box { -fx-pref-height: 34; }
+.card { -fx-background-color: white; -fx-background-radius: 10; -fx-border-color: #e1e6f0; -fx-border-radius: 10; }
+.card-title { -fx-font-size: 17px; -fx-font-weight: bold; }
+.price { -fx-text-fill: #237148; -fx-font-weight: bold; }
+.purchased { -fx-opacity: 0.65; }
+.busy { -fx-background-color: rgba(246,247,251,0.68); }
+.tab-pane .tab-header-area .tab-header-background { -fx-background-color: #e9edf7; }
+.list-view, .table-view, .scroll-pane { -fx-background-color: white; }

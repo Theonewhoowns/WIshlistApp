@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+config/db.properties
+data/
+*.log
+config/*.properties
+!config/*.example.properties
